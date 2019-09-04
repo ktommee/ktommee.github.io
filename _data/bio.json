@@ -93,15 +93,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "organization": "Kuakini Medical Center",
+      "website": "https://www.kuakini.org/wps/portal/",
+      "position": "Geriatric Care Activities Coordinator",
+      "startDate": "2016-06-01",
+      "endDate": "2018-07-31",
+      "summary": "Planned activities for patients in Geratric Care facility",
       ]
     },
     {
@@ -121,7 +118,7 @@
   "awards": [
     {
       "title": "Chancellors Scholarship",
-      "date": "2013-Present",
+      "date": "2017-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen students who complete a rigorous high school curriculum."
     }
