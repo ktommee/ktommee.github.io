@@ -2,6 +2,7 @@
   "basics": {
     "name": "Kristina Tommee",
     "label": "Shidler Undergraduate",
+    "picture": "https://ktommee.github.io/images/Kristina.JPG",
     "picture": "https://ktommee.github.io/images/Kristinas.JPG",
     "email": "",
     "phone": "",
@@ -9,8 +10,8 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96817",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -22,3 +23,4 @@
       }
     ]
   }
+}
